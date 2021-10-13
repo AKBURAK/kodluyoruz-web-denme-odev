@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #FFFF;
+}
+
+#google-img{
+    width: 351px;
+    height: 113px;
+}
+table{
+    width: 90%;
+    border: 0px;
+}
+
+table tr td.tablo1{
+    background-color: #EEEE;
+}
+table tr td.tablo2{
+    width: 37%;
+    background-color:#7EE5DA;
+}
+table tr td.tablo3{
+    background-color: #70CCC2;
+
+}
+table tr td.tablo4{
+    background-color: #62B3AA;
+    box-align: "right"
+    
+}
+a{
+    text-decoration: none;
+}
